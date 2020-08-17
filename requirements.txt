@@ -1,0 +1,13 @@
+asyncio==3.4.3
+certifi==2020.6.20
+chardet==3.0.4
+h11==0.9.0
+httpcore==0.10.1
+httpie==2.2.0
+httpx==0.14.1
+idna==2.10
+Pygments==2.6.1
+requests==2.24.0
+rfc3986==1.4.0
+sniffio==1.1.0
+urllib3==1.25.10
